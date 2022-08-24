@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: const Text('Open Whatsapp'),
       ),
       body: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 100),
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 40),
         child: Column(
           children: [
             const Text(
