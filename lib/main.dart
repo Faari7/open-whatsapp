@@ -46,11 +46,11 @@ class _MyHomePageState extends State<MyHomePage> {
         title: const Text('Open Whatsapp'),
       ),
       body: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 100),
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 100),
         child: Column(
           children: [
             const Text(
-              "Please Enter phone number with country code.",
+              "Please Enter phone number with country code. \n\ni.e 923226930784",
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 18,
